@@ -1,13 +1,18 @@
 # D365 F&O Finance Table Map
 
-> D365 F&O BI 개발 시 참고용 재무 모듈 테이블 구조 정리  
+## D365 F&O BI 개발 시 참고용 재무 모듈 테이블 구조 정리  
+*A reference guide for Finance module table structures in D365 F&O BI development*
+
+> **<재무 모듈>**  
 > GL(총계정원장) · AR(매출채권) · AP(매입채무) · FA(고정자산) · Budget(예산) · 재무차원 PIVOT
 
----
+
 
 ## ERD
 
-> `d365_finance_erd.drawio` 파일을 [app.diagrams.net](https://app.diagrams.net) 에서 열면 인터랙티브 ERD로 확인 가능
+> - `.drawio` 파일을 [app.diagrams.net](https://app.diagrams.net) 에서 실행 시, 인터랙티브 ERD로 확인 가능
+> - 테이블 설명은 클로드 기반이며, ERD는 직접 수정하여 작성
+> - (참고)D365 ERD 확인 가능 Site : https://daxonline.org/d365/table-relation-finder.html 
 
 ![D365 Finance ERD](./D365_FI_ERD.png)
 

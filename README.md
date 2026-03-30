@@ -8,7 +8,7 @@
 ## ERD
 
 > `d365_finance_erd.drawio` 파일을 [app.diagrams.net](https://app.diagrams.net) 에서 열면 인터랙티브 ERD로 확인 가능
-> ![D365 Finance ERD](./D365_FO_Finance_Data_Model.png)
+> ![D365 Finance ERD](./D365 F&O Finance Data Model.drawio.png)
 
 
 ---
